@@ -1,3 +1,4 @@
+
 Questão 01
 
 Qual das alternativas descreve corretamente uma característica de uma linguagem de baixo nível?
